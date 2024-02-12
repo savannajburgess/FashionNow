@@ -18,28 +18,34 @@ The Fashion Review project is an interactive platform designed for fashion enthu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Nav Bar Home, Catalog, Sign in and Sign up <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3> Nav Bar Home, Catalog, Sign in and Sign up <br/><h3>
+ <br />
+<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/480208f0-ab3a-4e3d-a176-78e18083a566"
+ height="80%" width="80%" alt=""/>
 <br />
 <br />
-Sign up fields offers basic authenticity handling via google firesbase <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Signed in users view  <br/><h3>
+<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/875f9c8f-9026-4c06-8097-4157e73d0794"/>
 <br />
 <br />
-Signed in users view  <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<h3>Each product has a card where you can write and read reviews  <br/><h3>
+<img src= "https://github.com/savannajburgess/FashionReview/assets/156722251/6bed7079-4ee0-46de-aac3-9fdfdc596eb4"/>
 <br />
 <br />
-Only signed in users can post reviews  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<h3>Only signed in users can post reviews  <br/><h3>
+<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/65d9a827-f867-46a1-997a-451cd2932e43"
+/>
 <br />
 <br />
-All users can filter through catalog  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>All users can filter through catalog  <br/><h3>
+<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/d4d6fe61-485a-4466-9ba9-5dc80b0b7adc"/>
 <br />
 <br />
-Sign out button only visible when signed in  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<h3>Sign out button only visible when signed in  <br/><h3>
+<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/3214a3e4-326a-476a-83df-9e9a6c41f029"/>
 <br />
 <br />
 </p>
